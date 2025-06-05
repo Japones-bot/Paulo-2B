@@ -10,8 +10,8 @@
     font-family:"Alumni Sans SC", sans-serif;
     background-color: rgb(140, 141, 143);
 }
-h1,
-h2{
+.h1,
+.h2{
     color:var(--cor-secundaria) ;
     font-weight: 700;
 }
