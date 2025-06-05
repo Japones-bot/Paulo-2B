@@ -5,7 +5,7 @@
     --cor-secundaria:#284260;
     --cor-destaque:#c92bfc;
 }
-body{
+.body{
 
     font-family:"Alumni Sans SC", sans-serif;
     background-color: rgb(140, 141, 143);
