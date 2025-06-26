@@ -6,4 +6,6 @@ footer{
     color: black;
     bottom:0;
     text-align: right;
+    position:relative;
+    width: auto;
 }
