@@ -4,7 +4,7 @@ body{
 footer{
     background-color: aqua;
     color: black;
-    bottom:;
+    bottom:0;
     text-align: right;
     position:fixed;
     width:100%;
