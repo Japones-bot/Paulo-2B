@@ -4,9 +4,9 @@ body{
 footer{
     background-color: aqua;
     color: black;
-    bottom:0;
+    bottom:;
     text-align: right;
-    position:relative;
+    position:fixed;
     width:100%;
 }
 footer p {
