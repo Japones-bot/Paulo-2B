@@ -24,4 +24,5 @@ footer p {
 .card{
     margin: 1rem 1rem;
     background-color: rgb(39, 128, 128);
+    padding: 1rem 1rem;
 }
