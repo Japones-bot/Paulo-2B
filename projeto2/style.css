@@ -18,3 +18,10 @@ footer p {
     height: 4rem;
     margin-top:1rem ;
 }
+#container{
+    display: flex;
+}
+.card{
+    margin: 1rem 1rem;
+    background-color: black;
+}
