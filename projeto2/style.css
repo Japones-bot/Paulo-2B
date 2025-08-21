@@ -31,7 +31,7 @@ footer p {
     display: flex;
 }
 .card__content {
-    margin: 1rem 1rem;
+    margin: 1rem;
     background-color: var(--card-front-color);
     height: 100%;
 }
