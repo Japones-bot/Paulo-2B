@@ -15,7 +15,7 @@ body{
     font-family:"PT Serif", serif ;
 }
 footer{
-    background-color: aqua;
+    background-color: rgb(9, 138, 138);
     color: black;
     bottom:0;
     position:fixed;
