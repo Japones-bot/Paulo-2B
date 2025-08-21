@@ -47,3 +47,9 @@ position: absolute;
 border-radius: 0.6rem;
 font-size: 1.5vw;
 }
+
+.card__content__question p {
+    color: var(--text-color);
+    font-weight:500;
+
+}
