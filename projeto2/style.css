@@ -37,6 +37,8 @@ footer p {
     margin: 1rem;
     background-color: var(--card-front-color);
     height: 100%;
+    transform-style:preserve-3d ;
+    transition: transform 400ms ease-in-out;
 }
 
 .card__content h3 {
