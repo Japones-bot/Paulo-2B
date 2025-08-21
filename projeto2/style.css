@@ -1,3 +1,12 @@
+:root{
+    
+--text-color:rgba(185, 194, 216, 0.774);
+--card-font-color:#0b5d97;
+--card-back-color:rgb(4, 15, 98);
+
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
     
 
@@ -25,4 +34,18 @@ footer p {
     margin: 1rem 1rem;
     background-color: rgb(39, 128, 128);
     padding: 1rem 1rem;
+}
+
+.card__content h3{
+color:var(--text-color);
+
+
+
+
+
+
+
+
+
+
 }
