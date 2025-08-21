@@ -33,7 +33,7 @@ footer p {
 .card__content {
     margin: 1rem 1rem;
     background-color: var(--card-front-color);
-    padding: 1rem 1rem;
+    height: 100%;
 }
 
 .card__content h3 {
