@@ -1,6 +1,6 @@
 :root{
     
---text-color:rgba(185, 194, 216, 0.774);
+--text-color:rgb(185, 194, 216);
 --card-front-color:#0b5d97;
 --card-back-color:rgb(4, 15, 98);
 
@@ -32,7 +32,7 @@ footer p {
 }
 .card__content {
     margin: 1rem 1rem;
-    background-color: rgb(39, 128, 128);
+    background-color: var(--card-front-color);
     padding: 1rem 1rem;
 }
 
