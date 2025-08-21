@@ -1,7 +1,7 @@
 :root{
     
 --text-color:rgba(185, 194, 216, 0.774);
---card-font-color:#0b5d97;
+--card-front-color:#0b5d97;
 --card-back-color:rgb(4, 15, 98);
 
 }
@@ -30,14 +30,23 @@ footer p {
 #container{
     display: flex;
 }
-.card{
+.card__content {
     margin: 1rem 1rem;
     background-color: rgb(39, 128, 128);
     padding: 1rem 1rem;
 }
 
-.card__content h3{
-color:var(--text-color);
+.card__content h3 {
+color: var(--text-color);
+border: var(--text-color);
+text-align: left;
+padding: 0.6 rem;
+margin: 0.5rem;
+background-color: red;
+position: absolute;
+border-radius: 0.6rem;
+font-size: 1.5vw;
+}
 
 
 
