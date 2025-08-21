@@ -53,6 +53,6 @@ font-size: 1.5vw;
     font-weight:500; 
 }
 .card__content__answer p {
-    color: var(--text-color);
+    color: var(--card-back-color);
     font-weight:500; 
 }
