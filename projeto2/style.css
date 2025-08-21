@@ -30,6 +30,9 @@ footer p {
 #container{
     display: flex;
 }
+.card:hover .card__content{
+    transform: rotateY(180dg);
+}
 .card__content {
     margin: 1rem;
     background-color: var(--card-front-color);
@@ -56,3 +59,4 @@ font-size: 1.5vw;
     color: var(--card-back-color);
     font-weight:500; 
 }
+
