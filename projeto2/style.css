@@ -55,11 +55,13 @@ body{
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
+    font-size: 2.5vw;
 }
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
+    font-size: 2.5vw;
 }
 
 .cartao:hover .cartao__conteudo {
