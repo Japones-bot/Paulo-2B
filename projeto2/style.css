@@ -61,7 +61,7 @@ body{
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
-    font-size: 2.5vw;
+    font-size: 1.6vw;
 }
 
 .cartao:hover .cartao__conteudo {
