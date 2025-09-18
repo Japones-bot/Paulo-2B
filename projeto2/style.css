@@ -84,6 +84,7 @@ body{
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
     background-color: rgba(4, 15, 98, 1);
+    border-radius: 1rem;
 }
 
 
