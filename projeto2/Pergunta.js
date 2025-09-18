@@ -13,3 +13,33 @@ criaCartao(
     'Qual o unico animal mamifero voador?',
     'O Morcego é o unico mamifero voador na natureza, voando com uma tecnica chamada de autopropulsão'
 )
+criaCartao(
+    'Reino Animal',
+    'Qual o unico animal mamifero voador?',
+    'O Morcego é o unico mamifero voador na natureza, voando com uma tecnica chamada de autopropulsão'
+)
+criaCartao(
+    'Reino Animal',
+    'Qual o unico animal mamifero voador?',
+    'O Morcego é o unico mamifero voador na natureza, voando com uma tecnica chamada de autopropulsão'
+)
+criaCartao(
+    'Reino Animal',
+    'Qual o unico animal mamifero voador?',
+    'O Morcego é o unico mamifero voador na natureza, voando com uma tecnica chamada de autopropulsão'
+)
+criaCartao(
+    'Reino Animal',
+    'Qual o unico animal mamifero voador?',
+    'O Morcego é o unico mamifero voador na natureza, voando com uma tecnica chamada de autopropulsão'
+)
+criaCartao(
+    'Reino Animal',
+    'Qual o unico animal mamifero voador?',
+    'O Morcego é o unico mamifero voador na natureza, voando com uma tecnica chamada de autopropulsão'
+)
+criaCartao(
+    'Reino Animal',
+    'Qual o unico animal mamifero voador?',
+    'O Morcego é o unico mamifero voador na natureza, voando com uma tecnica chamada de autopropulsão'
+)
