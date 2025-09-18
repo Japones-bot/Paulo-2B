@@ -4,14 +4,12 @@ function criaCartao(categoria, pergunta, resposta) {
     cartao.className ='cartao'
     cartao.innerHTML = `
     <div class="cartao__conteudo">
-        <h3>Reino Animal</h3>
+        <h3>${categoria}</h3>
         <div class="cartao__conteudo__pergunta">
-            <p>Qual o unico animal mamifero que não consegue pular?</p>
+            <p>${pergunta}</p>
         </div>
         <div class="cartao__conteudo__resposta">
-            <p>O Elefante, devido à sua estrutura óssea nas pernas, que são projetadas para suportar o seu
-            peso colossal, sem a flexibilidade necessária para o salto, e pelo seu tamanho extremo que
-            dificulta a impulsão.</p>
+            <p>${resposta}</p>
         </div>
     </div>
     `
