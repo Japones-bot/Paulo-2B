@@ -1,8 +1,8 @@
 :root{
     
---text-color:rgb(185, 194, 216);
+--text-color:#b9c2d8;
 --card-front-color:#0b5d97;
---card-back-color:rgb(4, 15, 98);
+--card-back-color:#040f62;
 
 }
 
@@ -83,6 +83,7 @@ body{
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
+    background-color: rgba(4, 15, 98, 1);
 }
 
 
