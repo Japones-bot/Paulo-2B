@@ -83,7 +83,7 @@ body{
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: rgb(118, 130, 223);
+    background-color: rgb(20, 40, 195);
     border-radius: 1rem;
 }
 
